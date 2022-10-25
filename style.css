@@ -1,5 +1,43 @@
 .d-blockw-100 {
-   width: 1400px;
-   height:470px; 
+  width: 1200px;
+  height: 720px;
+  justify-items: center;
+  margin: 100px;
 }
     
+.navbar-brand{
+   justify-content: center;
+   margin: 16px;
+
+}
+.panel ul{
+	justify-content: center;
+
+}
+.panel li{
+	justify-content: center;
+	display: flex;
+}
+img{
+	justify-content: center;
+}
+
+h2{
+	text-align: center;
+}
+
+.img2 {
+   width: 50%;
+   height: 50%;
+   display: flex;
+   margin: auto;
+}
+.panel ul{
+   display: flex;
+   justify-content: auto;
+   width: 95%;
+}
+.panel li{
+   width: 100%;
+   list-style: none;
+}
